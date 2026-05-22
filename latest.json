@@ -1,7 +1,7 @@
 {
-  "version": "0.2.2",
-  "released_at": "2026-05-14T00:00:00Z",
+  "version": "0.2.3",
+  "released_at": "2026-05-22T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "f67a7875afec38fa657304f4c90f6954864fc99a8342abc4f2415f00c7fc9852",
-  "notes": "Fix update check: now reads latest.json directly instead of GitHub API (no rate limits)."
+  "sha256": "c4e9e5e78399fd66d9db71391f0aff09593b3e9736b37602456817ebacb61978",
+  "notes": "License validation and telemetry migrated from Google Sheets to Supabase — no more SA key expiry issues."
 }
