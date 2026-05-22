@@ -1,7 +1,7 @@
 {
-  "version": "0.2.4",
+  "version": "0.2.5",
   "released_at": "2026-05-22T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "ef521b16c824a1845800d9b30c0237832642944fe29f363a32e1c95268ad0c00",
-  "notes": "Add 'Safe from BETA kills' checkbox on Process Reduce — skip BETA service categories at MAX (keeps Win Search, MS login, clipboard intact at cost of 15-20 more services)."
+  "sha256": "fa8ac148bc62c3d93fca83bc11cd184f85606bc5b3ce4a8082ff05d0cf0b9526",
+  "notes": "Repo cleanup: assets/, docs/, research/ folders. Build path updates. No functional changes."
 }
