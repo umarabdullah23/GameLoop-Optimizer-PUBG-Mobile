@@ -1,7 +1,7 @@
 {
-  "version": "0.2.5",
-  "released_at": "2026-05-22T00:00:00Z",
+  "version": "0.2.6",
+  "released_at": "2026-05-27T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "fa8ac148bc62c3d93fca83bc11cd184f85606bc5b3ce4a8082ff05d0cf0b9526",
-  "notes": "Repo cleanup: assets/, docs/, research/ folders. Build path updates. No functional changes."
+  "sha256": "ef54625b978e97a9317517f05529ab99a4e75e3a5f766985615a7aba1cddac37",
+  "notes": "Subscriber tier + 30% Run All Safe slice. Vendor + per-CPU tiles (AMD/Ryzen, Intel CPU) gated to Pro. Lock pills + opacity treatment on Process Reduce + Optimizer. Logout button in Settings. Tighter Optimizer hero heights."
 }
