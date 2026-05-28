@@ -77,16 +77,11 @@ Full safety details and the public "what we touch" list live at **[www.gameloopo
 
 ---
 
-## 💰 Pricing
+## 💸 Free to download
 
-| Plan | Price | Includes |
-| --- | --- | --- |
-| **Free** | $0 / forever | Save Editor · Cleanup · Settings & Restore |
-| **Subscriber** | Free — YouTube subscribe + screenshot | 30-day trial: Process Reduce Safe/Aggressive + limited optimizer |
-| **Pro Monthly** | $4.99 / month | Everything unlocked — Max, full network, per-CPU/GPU tiles |
-| **Pro 3-Month** | $11.99 / 3 months | Everything + 20% off |
-
-Cancel anytime · no long contracts.
+The Free tier downloads and runs with no payment and no account. Paid Pro
+tiers unlock the heaviest optimizations — see the full plan breakdown on the
+website: **[www.gameloopoptimizer.com/#pricing](https://www.gameloopoptimizer.com/#pricing)**.
 
 ---
 
