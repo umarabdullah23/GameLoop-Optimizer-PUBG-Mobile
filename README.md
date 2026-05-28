@@ -1,16 +1,16 @@
 <div align="center">
 
-# GameLoop Optimizer
+# GameLoop Optimizer — Free FPS Boost & Lag Fix for PUBG Mobile
 
 ### Stop the Stutter. Start Winning.
 
-**Built for PUBG Mobile on the GameLoop emulator.**
+**GameLoop Optimizer** is a free Windows tool that boosts FPS, fixes lag, and kills stutter for **PUBG Mobile on the GameLoop emulator** — one click, fully reversible, ban-safe.
 
 [![Latest Release](https://img.shields.io/github/v/release/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile?style=for-the-badge&color=3DD9FF&label=Latest)](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/total?style=for-the-badge&color=ff6b35&label=Downloads)](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases)
-[![Website](https://img.shields.io/badge/Website-gameloopoptimizer.com-3DD9FF?style=for-the-badge)](https://gameloopoptimizer.com)
+[![Website](https://img.shields.io/badge/Website-gameloopoptimizer.com-3DD9FF?style=for-the-badge)](https://www.gameloopoptimizer.com)
 [![Discord](https://img.shields.io/badge/Discord-Jeral_Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TxXFafMmy)
-[![YouTube](https://img.shields.io/badge/YouTube-@JeralGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JeralGaming)
+[![YouTube](https://img.shields.io/badge/YouTube-Jeral_Gaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jeralgaming853)
 
 </div>
 
@@ -18,12 +18,25 @@
 
 ## 🎯 What it does
 
-A Windows desktop tool that gets your PC out of the way so GameLoop runs smoothly. **The lag isn't you.**
+A Windows desktop tool that gets your PC out of the way so GameLoop runs smoothly. **The lag isn't you — it's 130+ background processes GameLoop never closed.**
 
-- Cuts the background processes that eat your FPS
-- Drops random microstutter on most rigs
-- Ban-safe — no game-file modification
-- **Reverts on reboot** by default
+- **Boosts FPS** — frees CPU, RAM, and disk for the emulator
+- **Fixes lag & stutter** — cuts the background processes and microstutter that tank your 1% lows
+- **Lowers ping** — gaming DNS + network-stack tuning for PUBG Mobile
+- **Ban-safe** — never reads or modifies game files, memory, or packets
+- **Reverts on reboot** by default — zero permanent damage
+
+---
+
+## ✅ Why trust this one
+
+Most "GameLoop optimizers" you'll find ask you to paste a remote PowerShell script from a `bit.ly` link, or lock the download behind a Discord key wall. **This one doesn't.**
+
+- **No remote scripts** — no `iwr ... | iex`, no piping the internet into your shell
+- **No bit.ly / shortlinks** — you download a signed `.exe` straight from GitHub Releases
+- **No key wall to download** — Free tier works with zero payment
+- **Ban-safe** — anti-cheat never sees it; the optimizer only touches Windows + GameLoop's own settings
+- **Reverts on reboot** — TEMP-only by default, backup-first on everything else
 
 ---
 
@@ -36,7 +49,7 @@ A Windows desktop tool that gets your PC out of the way so GameLoop runs smoothl
 - Administrator privileges required
 - **No installer. No telemetry. No runtime.** Just run the .exe.
 
-> SmartScreen warning? Click **More info → Run anyway**.
+> SmartScreen warning? Click **More info → Run anyway**. (Unsigned indie build — the source of the warning is the lack of a paid code-signing cert, not the software.)
 
 ---
 
@@ -46,7 +59,7 @@ A Windows desktop tool that gets your PC out of the way so GameLoop runs smoothl
 | :--: | --- | --- |
 | **Safe** | The good default. WiFi, audio, login, and OEM utilities stay protected. | Safe |
 | **Aggressive** | Most players land here. Cuts secondary processes too. | Medium |
-| **Max** | Tournament Ready. Strips every non-gaming process. | Aggressive |
+| **Max** | Tournament Ready. Strips every non-gaming process (~50–60 left). | Aggressive |
 
 Every change is backed up. One-click restore. TEMP-only by default — reverts on reboot.
 
@@ -60,7 +73,7 @@ Every change is backed up. One-click restore. TEMP-only by default — reverts o
 - ✅ Backup-first — every action snapshots state before execution
 - ✅ Open about every safety guarantee
 
-Full safety details and the public "what we touch" list live at **[gameloopoptimizer.com/safety](https://gameloopoptimizer.com/safety)**.
+Full safety details and the public "what we touch" list live at **[www.gameloopoptimizer.com/safety](https://www.gameloopoptimizer.com/safety)**.
 
 ---
 
@@ -69,8 +82,8 @@ Full safety details and the public "what we touch" list live at **[gameloopoptim
 | Plan | Price | Includes |
 | --- | --- | --- |
 | **Free** | $0 / forever | Save Editor · Cleanup · Settings & Restore |
-| **Subscriber** | Free with YouTube subscribe | Above + the core mechanics (limited) |
-| **Pro Monthly** | $4.99 / month | Everything unlocked |
+| **Subscriber** | Free — YouTube subscribe + screenshot | 30-day trial: Process Reduce Safe/Aggressive + limited optimizer |
+| **Pro Monthly** | $4.99 / month | Everything unlocked — Max, full network, per-CPU/GPU tiles |
 | **Pro 3-Month** | $11.99 / 3 months | Everything + 20% off |
 
 Cancel anytime · no long contracts.
@@ -95,6 +108,9 @@ No. The optimizer only touches Windows and GameLoop's own configuration — neve
 **Will it work on a low-end PC?**
 Yes. Tested across a wide range of budget laptops and modern desktops. Low-end PCs typically see the biggest gains.
 
+**How do I get more FPS / unlock 90 or 120 FPS in GameLoop?**
+Run the optimizer first to free system resources, then set the matching frame-rate in GameLoop's settings. Full guide on the [website](https://www.gameloopoptimizer.com).
+
 **Do I need to reboot?**
 Most tweaks apply immediately. A few need a reboot — the app shows a "Reboot recommended" notice when relevant.
 
@@ -102,9 +118,9 @@ Most tweaks apply immediately. A few need a reboot — the app shows a "Reboot r
 
 ## 🌐 Links
 
-- **Website:** [gameloopoptimizer.com](https://gameloopoptimizer.com)
+- **Website:** [www.gameloopoptimizer.com](https://www.gameloopoptimizer.com)
 - **Discord:** [discord.gg/TxXFafMmy](https://discord.gg/TxXFafMmy)
-- **YouTube:** [@JeralGaming](https://www.youtube.com/@JeralGaming)
+- **YouTube:** [@jeralgaming853](https://www.youtube.com/@jeralgaming853)
 - **Issues / bugs:** [Open an issue](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/issues)
 - **Creator:** Umar Abdullah · Jeral Gaming community
 
@@ -118,6 +134,8 @@ Proprietary. Free tier available without payment. Paid features require a licens
 
 <div align="center">
 
-**[⬇ Download now](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest/download/GameLoopOptimizerClient.exe)** · **[Visit website](https://gameloopoptimizer.com)** · **[Join Discord](https://discord.gg/TxXFafMmy)**
+**[⬇ Download now](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest/download/GameLoopOptimizerClient.exe)** · **[Visit website](https://www.gameloopoptimizer.com)** · **[Join Discord](https://discord.gg/TxXFafMmy)**
+
+*Keywords: gameloop optimizer, gameloop fps boost, gameloop lag fix, pubg mobile pc lag, gameloop best settings, gameloop emulator optimization, fps booster, low end pc.*
 
 </div>
