@@ -6,8 +6,8 @@
 
 **Built for PUBG Mobile on the GameLoop emulator.**
 
-[![Latest Release](https://img.shields.io/github/v/release/umarabdullah23/gameloop-optimizer-releases?style=for-the-badge&color=3DD9FF&label=Latest)](https://github.com/umarabdullah23/gameloop-optimizer-releases/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/umarabdullah23/gameloop-optimizer-releases/total?style=for-the-badge&color=ff6b35&label=Downloads)](https://github.com/umarabdullah23/gameloop-optimizer-releases/releases)
+[![Latest Release](https://img.shields.io/github/v/release/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile?style=for-the-badge&color=3DD9FF&label=Latest)](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/total?style=for-the-badge&color=ff6b35&label=Downloads)](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases)
 [![Website](https://img.shields.io/badge/Website-gameloopoptimizer.com-3DD9FF?style=for-the-badge)](https://gameloopoptimizer.com)
 [![Discord](https://img.shields.io/badge/Discord-Jeral_Gaming-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TxXFafMmy)
 [![YouTube](https://img.shields.io/badge/YouTube-@JeralGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JeralGaming)
@@ -29,7 +29,7 @@ A Windows desktop tool that gets your PC out of the way so GameLoop runs smoothl
 
 ## ⬇️ Download
 
-### **[Download GameLoopOptimizerClient.exe](https://github.com/umarabdullah23/gameloop-optimizer-releases/releases/latest/download/GameLoopOptimizerClient.exe)**
+### **[Download GameLoopOptimizerClient.exe](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest/download/GameLoopOptimizerClient.exe)**
 
 - Windows 10 (build 19045+) or Windows 11 64-bit
 - 4 GB RAM minimum
@@ -79,7 +79,7 @@ Cancel anytime · no long contracts.
 
 ## 📖 How to use
 
-1. Download `GameLoopOptimizerClient.exe` from the [latest release](https://github.com/umarabdullah23/gameloop-optimizer-releases/releases/latest)
+1. Download `GameLoopOptimizerClient.exe` from the [latest release](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest)
 2. Right-click → **Run as administrator**
 3. Pick **Safe**, **Aggressive**, or **Max**
 4. Click Apply
@@ -105,7 +105,7 @@ Most tweaks apply immediately. A few need a reboot — the app shows a "Reboot r
 - **Website:** [gameloopoptimizer.com](https://gameloopoptimizer.com)
 - **Discord:** [discord.gg/TxXFafMmy](https://discord.gg/TxXFafMmy)
 - **YouTube:** [@JeralGaming](https://www.youtube.com/@JeralGaming)
-- **Issues / bugs:** [Open an issue](https://github.com/umarabdullah23/gameloop-optimizer-releases/issues)
+- **Issues / bugs:** [Open an issue](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/issues)
 - **Creator:** Umar Abdullah · Jeral Gaming community
 
 ---
@@ -118,6 +118,6 @@ Proprietary. Free tier available without payment. Paid features require a licens
 
 <div align="center">
 
-**[⬇ Download now](https://github.com/umarabdullah23/gameloop-optimizer-releases/releases/latest/download/GameLoopOptimizerClient.exe)** · **[Visit website](https://gameloopoptimizer.com)** · **[Join Discord](https://discord.gg/TxXFafMmy)**
+**[⬇ Download now](https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/latest/download/GameLoopOptimizerClient.exe)** · **[Visit website](https://gameloopoptimizer.com)** · **[Join Discord](https://discord.gg/TxXFafMmy)**
 
 </div>

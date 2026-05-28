@@ -1,7 +1,7 @@
 {
-  "version": "0.2.7",
-  "released_at": "2026-05-29T00:00:00Z",
+  "version": "0.2.8",
+  "released_at": "2026-05-29T01:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "cb3e30eb117d143b25d5dd231586ea04e67a6ef7a1a9c6291bda64835ed6b15a",
-  "notes": "Security: removed guessable sequential demo keys from the offline fallback. All customer keys now live in Supabase only and are crypto-random + unguessable. Keys carry a name + validity (1/3/6/12 months). New /admin web console for issuing/revoking keys."
+  "sha256": "d37c5056712800a9369165adffd0467e60d7969b37376ffb184533dbddeb15d3",
+  "notes": "Repo moved to GameLoop-Optimizer-PUBG-Mobile (cleaner, discoverable). Updater now points at the new repo. No user-facing feature changes from 0.2.7 — crypto-random keys + admin console still apply."
 }
