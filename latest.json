@@ -1,7 +1,7 @@
 {
-  "version": "0.3.1",
-  "released_at": "2026-05-30T09:55:33Z",
+  "version": "0.3.2",
+  "released_at": "2026-05-30T10:19:27Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "088dab069e90cf1c255006700f90d21367ef3485aa132d63d4c6d78cb6bb0f60",
-  "notes": "MAX mode is FREE for the first 5 days on every Subscriber key (configurable from admin). Pro is now $1.99/mo and $5/3mo. Banner cleanup + admin trial config."
+  "sha256": "4741678d92b4c7d9717d3eedd4ac07acf724994fae65d841d6af6a22e17b9b91",
+  "notes": "Hardened auto-update: the client now checks the latest version from 3 independent sources and tolerates malformed manifests, so updates can't silently break again. No other user-facing changes."
 }
