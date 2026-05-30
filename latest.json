@@ -1,7 +1,7 @@
 {
-  "version": "0.2.8",
-  "released_at": "2026-05-29T01:00:00Z",
+  "version": "0.2.9",
+  "released_at": "2026-05-30T07:45:27Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "d37c5056712800a9369165adffd0467e60d7969b37376ffb184533dbddeb15d3",
-  "notes": "Repo moved to GameLoop-Optimizer-PUBG-Mobile (cleaner, discoverable). Updater now points at the new repo. No user-facing feature changes from 0.2.7 — crypto-random keys + admin console still apply."
+  "sha256": "8279203c2e54a524d0e80cff9bc7913a6d00b268f5e691e71cd2ab781f3d8ae5",
+  "notes": "Internal licensing + entitlement engine refinements and minor stability fixes. No changes to Free, Subscriber, or Pro behaviour."
 }
