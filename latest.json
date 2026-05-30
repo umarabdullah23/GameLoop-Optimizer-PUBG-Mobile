@@ -1,7 +1,7 @@
-{
-  "version": "0.3.0",
-  "released_at": "2026-05-30T09:43:44Z",
-  "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "cea725ae198f764cb142d5746ac5d120d6319509335739b459ee002091d47f4f",
-  "notes": "MAX mode is now FREE for the first 5 days on every Subscriber key (configurable from admin). Launch price drop: Pro is now $1.99/mo and $5/3mo. Plus a per-user telemetry console for the team."
+﻿{
+    "version":  "0.3.1",
+    "released_at":  "2026-05-30T09:55:33Z",
+    "asset_name":  "GameLoopOptimizerClient.exe",
+    "sha256":  "088dab069e90cf1c255006700f90d21367ef3485aa132d63d4c6d78cb6bb0f60",
+    "notes":  "MAX mode is FREE for the first 5 days on every Subscriber key (configurable from admin). Pro is now $1.99/mo and $5/3mo. Banner cleanup + admin trial config."
 }
