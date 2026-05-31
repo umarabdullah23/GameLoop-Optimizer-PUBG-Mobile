@@ -1,7 +1,7 @@
 {
-  "version": "0.3.2",
-  "released_at": "2026-05-30T10:19:27Z",
+  "version": "0.3.3",
+  "released_at": "2026-05-31T18:52:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "4741678d92b4c7d9717d3eedd4ac07acf724994fae65d841d6af6a22e17b9b91",
-  "notes": "Hardened auto-update: the client now checks the latest version from 3 independent sources and tolerates malformed manifests, so updates can't silently break again. No other user-facing changes."
+  "sha256": "424a2d050c3318ec8514339f37fe4eba5e1fd24839b753ddd4edf1f39c39cb89",
+  "notes": "v0.3.3 — Smarter hardware detection + safer MAX.\n• Fixed GPU detection on dual-graphics laptops and workstation cards (Quadro, Intel Arc) — the right GPU is picked now, with a manual CPU/GPU override if it's ever wrong.\n• New: optional System Restore Point before every optimization (on by default) so you can roll back in one click.\n• 'Keep Windows stable' now also protects the NVIDIA App during MAX, and is on by default.\n• Discord is never killed during optimization.\n• Cleaner dashboard, opens as a normal window with the correct taskbar icon, and now fully closes (no leftover background process)."
 }
