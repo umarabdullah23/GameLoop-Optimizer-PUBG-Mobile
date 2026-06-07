@@ -2,6 +2,6 @@
   "version": "0.3.4",
   "released_at": "2026-06-07T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "11ef471f46d39db2eae4f3e049f040393d9dcda4fc5d012b8ff21dae6724eff1",
-  "notes": "v0.3.4 — Fix Flicker (MPO) + Save Editor temp-folder fix.\n• New: 'Fix Flicker' button re-enables Multi-Plane Overlay to clear fullscreen flickering — always safe, and now also applied automatically when you turn Work Mode OFF and when you restore.\n• Fixed: Save Editor 'Could not generate' / WinError 3 that happened when the Windows Temp folder was cleared — save templates now survive a Temp wipe and a missing Temp folder is recreated automatically."
+  "sha256": "d5f3f6a0ce6f3de87936359f76607c164d068c01f00952445d9d10d77a72a13e",
+  "notes": "v0.3.4 — Fix Flicker (MPO) + Save Editor temp-folder fix.\n• New: 'Fix Flicker' button re-enables Multi-Plane Overlay to clear fullscreen flickering — always safe, and now also applied automatically when you turn Work Mode OFF and when you restore.\n• Fixed: Save Editor 'Could not generate' / WinError 3 when the Windows Temp folder was cleared.\n• More reliable updates: the updater now retries, uses a backup download link, and offers a manual download if the automatic one can't connect."
 }
