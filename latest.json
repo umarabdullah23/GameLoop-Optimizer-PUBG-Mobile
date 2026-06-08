@@ -1,7 +1,7 @@
 {
-  "version": "0.3.5",
+  "version": "0.3.6",
   "released_at": "2026-06-08T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "2b80a0d7d39194c186ecc8fa9ceddd50a871fb67e30b982497d325073768eb4c",
-  "notes": "v0.3.5 — Resilient auto-update.\n• Updates now download from GitHub first, then fall back to independent mirrors (Cloudflare R2 + the gameloopoptimizer.com website) so a GitHub CDN hiccup can't block your update.\n• Includes the v0.3.4 fixes: Fix Flicker (re-enable Multi-Plane Overlay) and the Save Editor temp-folder fix."
+  "sha256": "d1bedf660642923ffb1d3f8e5e207cbc3c74f37a1f4a4d031d5da8fa21ef8443",
+  "notes": "v0.3.6 — Update test build.\n• Verifies the resilient auto-update path (GitHub → website mirror). No feature changes from v0.3.5."
 }
