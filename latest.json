@@ -1,7 +1,7 @@
 {
-  "version": "0.3.4",
-  "released_at": "2026-06-07T00:00:00Z",
+  "version": "0.3.5",
+  "released_at": "2026-06-08T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "d5f3f6a0ce6f3de87936359f76607c164d068c01f00952445d9d10d77a72a13e",
-  "notes": "v0.3.4 — Fix Flicker (MPO) + Save Editor temp-folder fix.\n• New: 'Fix Flicker' button re-enables Multi-Plane Overlay to clear fullscreen flickering — always safe, and now also applied automatically when you turn Work Mode OFF and when you restore.\n• Fixed: Save Editor 'Could not generate' / WinError 3 when the Windows Temp folder was cleared.\n• More reliable updates: the updater now retries, uses a backup download link, and offers a manual download if the automatic one can't connect."
+  "sha256": "2b80a0d7d39194c186ecc8fa9ceddd50a871fb67e30b982497d325073768eb4c",
+  "notes": "v0.3.5 — Resilient auto-update.\n• Updates now download from GitHub first, then fall back to independent mirrors (Cloudflare R2 + the gameloopoptimizer.com website) so a GitHub CDN hiccup can't block your update.\n• Includes the v0.3.4 fixes: Fix Flicker (re-enable Multi-Plane Overlay) and the Save Editor temp-folder fix."
 }
