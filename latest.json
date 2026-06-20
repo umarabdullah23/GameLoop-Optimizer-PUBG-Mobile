@@ -1,7 +1,7 @@
 {
-  "version": "0.3.7",
-  "released_at": "2026-06-13T04:32:26Z",
+  "version": "0.3.8",
+  "released_at": "2026-06-20T18:48:42Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "b5a384075dddcd461fef4b4f7b6c44aed3fef881ddcef6ba91bf25c8860864e7",
-  "notes": "v0.3.7 — Optimization tuning and refinements.\n• Aggressive mode improvements and parity fixes.\n• Performance and stability refinements."
+  "sha256": "14c76836d178a0d5f0c30025143f5141979128cf2f43ffee7fbd0c6120109242",
+  "notes": "v0.3.8 — New Runtime Boost performance session.\n• Runtime Boost: one-tap held performance session right inside the Optimizer.\n• ADB now has its own dedicated tab.\n• Anti-stutter fix added to the Safe optimization run.\n• UI polish and stability refinements."
 }
