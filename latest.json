@@ -1,7 +1,7 @@
 {
-  "version": "0.3.9",
-  "released_at": "2026-06-20T19:31:02Z",
+  "version": "0.3.10",
+  "released_at": "2026-06-20T19:53:23Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "6e6687c002972fb7a82501abf0f51ed858f00012f0798a5d1e3006606fee8f9f",
-  "notes": "v0.3.9 - UI polish.\n• ADB tab: smoother scrolling, pinned action bar, no more clipped text.\n• Sharper text on high-DPI displays.\n• Tidier sidebar with section separators.\n• Aligned, equal-size Check / Connect buttons."
+  "sha256": "fd41d8cbd049d2d39e04dd535630ca7b49b207bf964b73b74aa6007eb0b88b4b",
+  "notes": "v0.3.10\n• Fix: Subscriber free-MAX trial now activates correctly (per key) — MAX is unlocked for your first days.\n• ADB tab: smoother scrolling, pinned action bar, no clipped text.\n• Sharper text on high-DPI displays + tidier sidebar.\n• Aligned, equal-size Check / Connect buttons."
 }
