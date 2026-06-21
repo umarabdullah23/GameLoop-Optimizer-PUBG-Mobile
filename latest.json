@@ -1,7 +1,7 @@
 {
-  "version": "0.3.11",
-  "released_at": "2026-06-20T20:08:37Z",
+  "version": "0.3.12",
+  "released_at": "2026-06-21T07:59:13Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "0abbf0319e22ed935e3b457a3201d8849ecf04004f5dd0b03da19abdf8b48704",
-  "notes": "v0.3.11\n• Fix: resolved a rare crash when starting Runtime Boost after changing modes or settings.\n• Stability improvements."
+  "sha256": "907f047ae7852cdcf8b43ad6dbc2aedcfa9a8d0bea59d7c20e3c024e729ef033",
+  "notes": "v0.3.12\n• Fix: the emulator ADB Connect & Check no longer freeze the app — they now run in the background with live status.\n• Fix: the connection status message no longer gets cut off.\n• More reliable emulator connection handling."
 }
