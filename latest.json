@@ -1,7 +1,7 @@
 {
-  "version": "0.3.12",
-  "released_at": "2026-06-21T07:59:13Z",
+  "version": "0.3.13",
+  "released_at": "2026-06-21T10:20:56Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "907f047ae7852cdcf8b43ad6dbc2aedcfa9a8d0bea59d7c20e3c024e729ef033",
-  "notes": "v0.3.12\n• Fix: the emulator ADB Connect & Check no longer freeze the app — they now run in the background with live status.\n• Fix: the connection status message no longer gets cut off.\n• More reliable emulator connection handling."
+  "sha256": "850bcef0c9c73db9b20d0205e3ad4e9cd60efeadcdb35b49e0ba04bfb750bdbc",
+  "notes": "v0.3.13\n• Power plan: the Ultimate Performance plan is now reliable and part of Run All Safe — it's no longer overwritten by High Performance, and duplicate Ultimate Performance plans are cleaned up automatically (some PCs had built up dozens).\n• More reliable behavior across different Windows display languages."
 }
