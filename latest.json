@@ -1,7 +1,7 @@
 {
-  "version": "0.3.13",
-  "released_at": "2026-06-21T10:20:56Z",
+  "version": "0.3.14",
+  "released_at": "2026-06-21T12:37:09Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "850bcef0c9c73db9b20d0205e3ad4e9cd60efeadcdb35b49e0ba04bfb750bdbc",
-  "notes": "v0.3.13\n• Power plan: the Ultimate Performance plan is now reliable and part of Run All Safe — it's no longer overwritten by High Performance, and duplicate Ultimate Performance plans are cleaned up automatically (some PCs had built up dozens).\n• More reliable behavior across different Windows display languages."
+  "sha256": "7b2bc5e3d4cda9292880bbb581a899684c814b7d1c597d4ed77ba41d60cec854",
+  "notes": "v0.3.14\n• Runtime Boost: finer control sliders. Frame Smoothness now ranges 0.5–1.0 ms in 0.1 steps, and Background Apps steps one value at a time instead of jumping — every setting between the min and max is now selectable."
 }
