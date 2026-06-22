@@ -1,7 +1,7 @@
 {
-  "version": "0.3.16",
+  "version": "0.3.17",
   "released_at": "2026-06-23T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "3fd8243f655fb03c54c90901bb040154d7e57c7fde6a3830b0954be5e6766029",
-  "notes": "v0.3.16\n• Runtime Boost: one-tap Apply All / Revert All controls (beta).\n• Clearer Runtime Boost sliders + UI polish."
+  "sha256": "8311534d3f58cf7edc01c65c76ff751d6aadd0834f6f170446cdee869cc939c0",
+  "notes": "v0.3.17\n• Subscriber: full access FREE for your first 15 days (MAX + all Safe + Aggressive), then keep SAFE + AGGRESSIVE for life.\n• Runtime Boost (beta): Apply All / Revert All controls + smoother sliders.\n• Fix: the app could stop responding when closed during a boost."
 }
