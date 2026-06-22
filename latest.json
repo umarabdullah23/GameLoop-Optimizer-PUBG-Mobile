@@ -1,7 +1,7 @@
 {
-  "version": "0.3.15",
-  "released_at": "2026-06-22T00:00:00Z",
+  "version": "0.3.16",
+  "released_at": "2026-06-23T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "fdf56b4e2fa0372a01553b7c3fead5749ff459d75027cc9518ed56e372f4e763",
-  "notes": "v0.3.15\n• Maintenance and reliability improvements."
+  "sha256": "3fd8243f655fb03c54c90901bb040154d7e57c7fde6a3830b0954be5e6766029",
+  "notes": "v0.3.16\n• Runtime Boost: one-tap Apply All / Revert All controls (beta).\n• Clearer Runtime Boost sliders + UI polish."
 }
