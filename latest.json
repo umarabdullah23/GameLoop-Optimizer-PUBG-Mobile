@@ -1,7 +1,7 @@
 {
-  "version": "0.3.18",
+  "version": "0.3.19",
   "released_at": "2026-06-23T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "5eafb42b4d862130c48f98df87037f8b716f13de4d19f648bfe7bb8cb13a13b2",
-  "notes": "v0.3.18\n• Runtime Boost now reads your current settings on open (sliders, priority, modules + running state reflect reality).\n• Carries the 15-day full-access subscriber trial + close-on-exit fix."
+  "sha256": "97a4d7ac1cc9ded583aa4b56a66474244f63eec9aa099155d8abb438eb3a3c36",
+  "notes": "v0.3.19\n• Runtime Boost now remembers your control settings (priority, sliders, modules) between launches.\n• Carries the 15-day full-access subscriber trial + earlier fixes."
 }
