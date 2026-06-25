@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.1/GameLoopOptimizerClient.exe",
-  "sha512": "QxPbHLdQ75f3KrXGYqPa99GW0EwIAYZ2e4psyZ9ZTIZsq/Ztzbm3NwSOO6pcSBejM0B/yEhPKiyN578W/Wvz3w==",
-  "notes": "v0.4.1 — reliability update\n• Faster, cleaner launch.\n• Closes fully — no leftover background processes.\n• Smoother single-window behavior; fixes a startup hang.\n• Stability and performance improvements."
+  "version": "0.4.21",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.21/GameLoopOptimizerClient.exe",
+  "sha512": "tLApy+sdLeJl1mp9X9o42UQnYZoKuggHTo501DVuS0GedIXsRqYd6X+tp8gNRJ2vRSTdR7x+dTJbmpu9z46kqQ==",
+  "notes": "v0.4.21 — update + reliability\n• New in-app update popup: download progress and one-click restart.\n• Cleaner, more reliable updates and launch.\n• Stability and performance improvements."
 }

@@ -1,7 +1,7 @@
 {
-  "version": "0.4.1",
-  "released_at": "2026-06-26T00:30:00Z",
+  "version": "0.4.21",
+  "released_at": "2026-06-26T01:10:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "eb7809fa47245d547b3eb5bf60f8607955eed1d142da494c1feda7c0d60e82ba",
-  "notes": "v0.4.1 — reliability update\n• Faster, cleaner launch.\n• Closes fully — no leftover background processes.\n• Smoother single-window behavior; fixes a startup hang.\n• Stability and performance improvements."
+  "sha256": "55735890319eda05c9fd9ac92538f07cc50cb12bfc84c7b071bf96becc18d1e3",
+  "notes": "v0.4.21 — update + reliability\n• New in-app update popup: download progress and one-click restart.\n• Cleaner, more reliable updates and launch.\n• Stability and performance improvements."
 }
