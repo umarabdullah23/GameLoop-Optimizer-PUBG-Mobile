@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "released_at": "2026-06-25T15:53:18Z",
+  "version": "0.4.1",
+  "released_at": "2026-06-26T00:30:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "d91dc365317026d99190d8324f05a8b1f7ffa4526d0e1d5635e7165ecb5a3556",
-  "notes": "v0.4.0 — the new GameLoop Optimizer\n• Faster, cleaner interface and startup.\n• Runtime Boost: one-click Apply All / Revert All; remembers your settings.\n• Background auto-updates so you always have the latest build.\n• Stability and performance improvements throughout."
+  "sha256": "eb7809fa47245d547b3eb5bf60f8607955eed1d142da494c1feda7c0d60e82ba",
+  "notes": "v0.4.1 — reliability update\n• Faster, cleaner launch.\n• Closes fully — no leftover background processes.\n• Smoother single-window behavior; fixes a startup hang.\n• Stability and performance improvements."
 }
