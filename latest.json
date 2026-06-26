@@ -1,7 +1,7 @@
 {
-  "version": "0.4.26",
-  "released_at": "2026-06-26T03:20:00Z",
+  "version": "0.4.27",
+  "released_at": "2026-06-26T03:50:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "dd0a8a65ae1fec065fd84d0f43d96bd9e6c97d2f3cacddc2d91589be34826338",
-  "notes": "v0.4.26 — update reliability\n• Restart & update reliably downloads, installs, and relaunches — with no console flash.\n• Stability and performance improvements."
+  "sha256": "0465307b181039be0e3259f2430333fc27a0bf006f9a3951b46411c57ee058c6",
+  "notes": "v0.4.27 — update reliability\n• Restart & update reliably downloads, installs, and relaunches — no console flash.\n• Stability and performance improvements."
 }
