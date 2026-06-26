@@ -1,7 +1,7 @@
 {
-  "version": "0.4.27",
-  "released_at": "2026-06-26T03:50:00Z",
+  "version": "0.4.28",
+  "released_at": "2026-06-26T04:20:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "0465307b181039be0e3259f2430333fc27a0bf006f9a3951b46411c57ee058c6",
-  "notes": "v0.4.27 — update reliability\n• Restart & update reliably downloads, installs, and relaunches — no console flash.\n• Stability and performance improvements."
+  "sha256": "87469ead530c7d159a58cc9a08e55a528398ee19519618bc137cc99ca64f764b",
+  "notes": "v0.4.28\n• ADB tweaks now require a connected emulator — clear message if ADB is off.\n• Stability and performance improvements."
 }
