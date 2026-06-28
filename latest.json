@@ -1,7 +1,7 @@
 {
-  "version": "0.4.30",
-  "released_at": "2026-06-26T09:00:00Z",
+  "version": "0.4.31",
+  "released_at": "2026-06-28T00:00:00Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "8c6f2cf061f4cdebf3d7118740812979f6daeceeda3c667fce133835ed7ef7fe",
-  "notes": "v0.4.30\n• Much faster launch.\n• Stability and performance improvements."
+  "sha256": "dfdc3e93c7f4df118588793bc491bcb1fd476baffc0139bd51e93c2fef4f40e3",
+  "notes": "v0.4.31\n• More reliable activation & sign-in.\n• Stability and connection improvements."
 }
