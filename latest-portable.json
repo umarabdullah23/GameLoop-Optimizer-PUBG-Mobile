@@ -1,6 +1,9 @@
 {
-  "version": "0.4.31",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.31/GameLoopOptimizerClient.exe",
-  "sha512": "8qCuWNjRKZaEupqw2wcd4IIwJ3FhMp2iLqAoBk2J5JSGaOxe8avl2/l3lSOL6j8z7sSj+Ii/l4o1aj5VSICkbw==",
-  "notes": "v0.4.31\n• More reliable activation & sign-in.\n• Stability and connection improvements."
+  "version": "0.4.35",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.35/GameLoopOptimizerClient.exe",
+  "urls": [
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.35/GameLoopOptimizerClient.exe"
+  ],
+  "sha512": "Gf5Mt+MPq946hSb0zkzSUlIrTXFpQkSSI15RC7rISeYYo2Z+BkW6Q10QJc+ztQJVKXKz/g2lDs1QfM/Agoskww==",
+  "notes": "v0.4.35\n• Snappier animations, clearer Runtime Boost, a deeper Deep Clean, honest progress labels, and friendlier wording."
 }
