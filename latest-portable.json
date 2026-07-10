@@ -1,9 +1,9 @@
 {
-  "version": "0.4.36",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.36/GameLoopOptimizerClient.exe",
+  "version": "0.4.37",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.37/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.36/GameLoopOptimizerClient.exe"
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.37/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "9ve8QAfwDmR1yAUEM1hXbmN2fKlCOCk2pejrGWtEhHDh4gCIyYfv/6Pzjj9u/Ai8kddukvIAvaOfTCu/AoPu3w==",
-  "notes": "v0.4.36\n• Sturdier auto-update with a clear website fallback if it can't finish; a bulletproof Save Editor that always has a template; ASUS gaming-laptop-only Armoury option."
+  "sha512": "ksm5rHDrqZLpbyvtyUZmr0v0b2QNJK4q0nlbvtHIU+4YSHkyTecN+WjRcPLaKi4SfIwi2NAsXgdtbm+1xFfG8Q==",
+  "notes": "v0.4.37\n• Stability and reliability improvements."
 }
