@@ -1,9 +1,9 @@
 {
-  "version": "0.4.37",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.37/GameLoopOptimizerClient.exe",
+  "version": "0.4.38",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.38/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.37/GameLoopOptimizerClient.exe"
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.38/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "ksm5rHDrqZLpbyvtyUZmr0v0b2QNJK4q0nlbvtHIU+4YSHkyTecN+WjRcPLaKi4SfIwi2NAsXgdtbm+1xFfG8Q==",
-  "notes": "v0.4.37\n• Stability and reliability improvements."
+  "sha512": "O5OiwNnU+VYQhxyYidwfJT0pasCk7aVI7xUjd92XfCUlvNT2Ml7xCJF4THFbvxOOLxgLmRYAWRbxGugB71Lzvg==",
+  "notes": "v0.4.38\n• Stability and reliability improvements."
 }
