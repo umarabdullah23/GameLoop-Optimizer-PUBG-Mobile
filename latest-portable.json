@@ -1,9 +1,9 @@
 {
-  "version": "0.4.40",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.40/GameLoopOptimizerClient.exe",
+  "version": "0.4.41",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.41/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.40/GameLoopOptimizerClient.exe"
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.41/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "3jzhe8sZJpdgDTYZ9ZAZRqGIc+JgBK+mhXzE3lbD0fWLMvqnzKyBAAPiXy9/DYv+J+WH4jJcGobL9m1ZysqHKA==",
-  "notes": "v0.4.40\n• Stability and reliability improvements."
+  "sha512": "zWrReir6gQsigUZsDqAniBK0LXqMvtkNXfFwBb8tveco22Ld3qiCBseRzd5vhFUA7KslsZO4FCr90fg5PEUqBQ==",
+  "notes": "v0.4.41\n• Detect GameLoop on any drive for ADB (plus a Locate button), safer Runtime Boost defaults, and UI improvements."
 }
