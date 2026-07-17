@@ -4,6 +4,6 @@
   "urls": [
     "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.44/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "S6V2hkkQPxgzdD+6OPfJZsFDhjX7FTDReW5yaklkaRo52RCamJRbfh5rVajvjl5YVGJsU6A+IySXFu1zqAt7Zg==",
+  "sha512": "xiKa9FK5FT8quG8xzeDmSvyPdsGkfWI0yZC406EM3vxhDLxo6UKXG10S0P07t9XyWV8nmDpAQpF9rasDhT6QaA==",
   "notes": "v0.4.44\n• Full support for GameLoop installed on a custom folder or another drive, plus a more reliable ADB connection."
 }
