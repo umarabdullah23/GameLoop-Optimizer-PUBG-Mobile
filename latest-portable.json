@@ -1,9 +1,9 @@
 {
-  "version": "0.4.49",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.49/GameLoopOptimizerClient.exe",
+  "version": "0.4.50",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.50/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.49/GameLoopOptimizerClient.exe"
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.50/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "smPRLHK9ZMopZPFXsAxMB8/IuilBV0MqG3h+JrObYgIfEpXCkbQ/hJvvVLylsQpqAQvqV7tyie5ycwm6TCS+bQ==",
-  "notes": "v0.4.49\n• Fixed: trial accounts could tap Run All and have nothing apply or stick - now fully fixed.\n• Safer Intel CPU tuning: removed aggressive core tweaks that could cause stutter on 12th-14th Gen hybrid chips; affected PCs are auto-repaired on launch.\n• New: live device panel on the ADB page (chipset, RAM, display, battery).\n• New ADB actions: Stop background logging + Disable camera service (on by default).\n• Bigger default window + dashboard layout polish.\n• Various reliability improvements."
+  "sha512": "qTIpMZ3RLPIBS4z/i9iog3lig3WBSQzjqlpqSfIVM6mTaR2Pm4r7McPApFIXrrEq9UOaAVVf1Ep59pgXZQSAFg==",
+  "notes": "v0.4.50\n• Enhancements and reliability improvements."
 }
