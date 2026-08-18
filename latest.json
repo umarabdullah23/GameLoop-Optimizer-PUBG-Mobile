@@ -1,7 +1,7 @@
 {
-  "version": "0.4.31",
-  "released_at": "2026-06-28T00:00:00Z",
+  "version": "0.4.65",
+  "released_at": "2026-08-18T17:41:19Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "dfdc3e93c7f4df118588793bc491bcb1fd476baffc0139bd51e93c2fef4f40e3",
-  "notes": "v0.4.31\n• More reliable activation & sign-in.\n• Stability and connection improvements."
+  "sha256": "8542411bac3abd167a29e120a519b37ff589f192b1394448ab57aa58f5fee5e4",
+  "notes": "v0.4.65\n• Fixed GameLoop settings restore (per-row and Restore all now genuinely restore what they promise).\n• Reworked the Toolbox tab with clearer suggestions and a safer GameLoop uninstall/cleanup flow.\n• Added optional cloud backup for your Save File Editor profile.\n• General reliability and localization fixes."
 }
