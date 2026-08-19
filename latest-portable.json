@@ -1,10 +1,10 @@
 {
-  "version": "0.4.66",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.66/GameLoopOptimizerClient.exe",
+  "version": "0.4.67",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.67/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.66/GameLoopOptimizerClient.exe",
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.66/GameLoopOptimizerClient.exe"
+    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.67/GameLoopOptimizerClient.exe",
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.67/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "Qa65zAMuaTVlyk/z5gU7nPC6JUUKpZB2xlj5E+H9/jrCUmICFq98lDuq+mlBiF2yEAFI+tcl6Ua7DK7ijBVptw==",
-  "notes": "v0.4.66\n• Added one-click FX File Explorer install/uninstall and a Facebook toggle on the ADB page. Fixed the Cloud Backup badge showing for already-unlocked accounts."
+  "sha512": "L9MKMg5QyccH+PoO4o4ZigfhUgsHXVlcL1rSz9n8GFKk82oB/egm8UFLAFdYGecDSlhRFcXjwVDxXqHsMxL4BA==",
+  "notes": "v0.4.67\n• Fixed a rare first-launch issue where opening the app again too quickly during setup could stop it from starting."
 }
