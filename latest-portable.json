@@ -1,10 +1,10 @@
 {
-  "version": "0.4.65",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.65/GameLoopOptimizerClient.exe",
+  "version": "0.4.66",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.66/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.65/GameLoopOptimizerClient.exe",
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.65/GameLoopOptimizerClient.exe"
+    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.66/GameLoopOptimizerClient.exe",
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.66/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "NeeafulQrf+ft7HqzXEZU+hQfPVzQGGT2+6i6KxEpchgEWbiPd2k06rUPmLL2e5teETgDuF7cCR+6yDoW6bNrA==",
-  "notes": "v0.4.65\n• Fixed GameLoop settings restore (per-row and Restore all now genuinely restore what they promise), reworked the Toolbox tab with clearer always-visible suggestions and a safer GameLoop uninstall/cleanup flow, added optional cloud backup for your Save File Editor profile, and general reliability + localization fixes."
+  "sha512": "Qa65zAMuaTVlyk/z5gU7nPC6JUUKpZB2xlj5E+H9/jrCUmICFq98lDuq+mlBiF2yEAFI+tcl6Ua7DK7ijBVptw==",
+  "notes": "v0.4.66\n• Added one-click FX File Explorer install/uninstall and a Facebook toggle on the ADB page. Fixed the Cloud Backup badge showing for already-unlocked accounts."
 }
