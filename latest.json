@@ -1,7 +1,7 @@
 {
-  "version": "0.4.65",
-  "released_at": "2026-08-18T17:41:19Z",
+  "version": "0.4.68",
+  "released_at": "2026-08-19T19:52:34Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "8542411bac3abd167a29e120a519b37ff589f192b1394448ab57aa58f5fee5e4",
-  "notes": "v0.4.65\n• Fixed GameLoop settings restore (per-row and Restore all now genuinely restore what they promise).\n• Reworked the Toolbox tab with clearer suggestions and a safer GameLoop uninstall/cleanup flow.\n• Added optional cloud backup for your Save File Editor profile.\n• General reliability and localization fixes."
+  "sha256": "86458656a35e66c53d71f31383f5996eea03e98ddbcd9dc00b422805f81551bd",
+  "notes": "v0.4.68\n• Fixed a rare first-launch issue where opening the app again too quickly during setup could stop it from starting.\n• Fixed NVIDIA settings failing to install its helper tool with a certificate error on some PCs."
 }
