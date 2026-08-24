@@ -1,7 +1,7 @@
 {
-  "version": "0.4.68",
-  "released_at": "2026-08-19T19:52:34Z",
+  "version": "0.4.71",
+  "released_at": "2026-08-24T08:16:05Z",
   "asset_name": "GameLoopOptimizerClient.exe",
-  "sha256": "86458656a35e66c53d71f31383f5996eea03e98ddbcd9dc00b422805f81551bd",
-  "notes": "v0.4.68\n• Fixed a rare first-launch issue where opening the app again too quickly during setup could stop it from starting.\n• Fixed NVIDIA settings failing to install its helper tool with a certificate error on some PCs."
+  "sha256": "c6417360ae5028232acea920176195a07cb76b422048d5bb18a8bd9884b3578e",
+  "notes": "v0.4.71\n• Added a \"Protect Microsoft Edge\" option so MAX process reduction no longer force-closes your browser by default.\n• Fixed tweaks silently failing when the app isn't running as Administrator."
 }
