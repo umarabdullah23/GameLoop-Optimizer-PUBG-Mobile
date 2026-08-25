@@ -1,10 +1,10 @@
 {
-  "version": "0.4.72",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.72/GameLoopOptimizerClient.exe",
+  "version": "0.4.73",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.73/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.72/GameLoopOptimizerClient.exe",
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.72/GameLoopOptimizerClient.exe"
+    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.73/GameLoopOptimizerClient.exe",
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.73/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "R5NTwzn5vWVKUhbrykk6gKb3yn8dpej2fUC8EfA8LoRPOSS0bnIMPorbka314EER7lh1WInTiznIim+jZbHGLw==",
-  "notes": "v0.4.72\n• Stability and reliability improvements."
+  "sha512": "E/kHlgrQY+Gms0DU/c6nDC8EpxtUreqs06/MH5tvZs4tL5ydgwolmkDcijxekOJfsF6l0jBKfKeY/u7yDLDPFA==",
+  "notes": "v0.4.73\n• Recovery + telemetry reliability improvements."
 }
