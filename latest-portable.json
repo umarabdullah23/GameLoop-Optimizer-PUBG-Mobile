@@ -1,10 +1,10 @@
 {
-  "version": "0.4.74",
-  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.74/GameLoopOptimizerClient.exe",
+  "version": "0.4.75",
+  "url": "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.75/GameLoopOptimizerClient.exe",
   "urls": [
-    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.74/GameLoopOptimizerClient.exe",
-    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.74/GameLoopOptimizerClient.exe"
+    "https://pub-a0e78a7a960d4939b6f9c3f14ff686eb.r2.dev/v0.4.75/GameLoopOptimizerClient.exe",
+    "https://github.com/umarabdullah23/GameLoop-Optimizer-PUBG-Mobile/releases/download/v0.4.75/GameLoopOptimizerClient.exe"
   ],
-  "sha512": "2o4qXFAptU80BBpD9I9YZwL8sxBo+BsaPvGM6eaafaT8rA0kUDes2hH8pHKQw4eNDpPwxXDO4/fAuXR2GTYRXw==",
-  "notes": "v0.4.74\n• Dashboard recovery shortcut for screen flicker/issues; more reliable hardware-spec detection; launcher build reliability fixes."
+  "sha512": "MhI5VpUVe4ZNakEu0HTbtrNbllJHya0AGjJ5jufIaoUUhsBZBD/v0CPnJDsv5cyHeGug6ETMnr1UYiABYs41xw==",
+  "notes": "v0.4.75\n• Stability and reliability improvements."
 }
